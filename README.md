@@ -1,2 +1,2 @@
 # DigitalClock-usingReactHook
-Created with CodeSandbox
+Welcome, Create a Digital Clock using React JS in Hindi.  
